@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Ejercicio de FOR 
 
-
+//faffafga
 //Variables 
 public class Actividad {
     int numero1;
